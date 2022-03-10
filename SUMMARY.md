@@ -1,29 +1,37 @@
 # Table of contents
 
+* [bomb.money Home](https://app.bomb.money)
+
+## 💣 Welcome / Start Here
+
 * [Introduction](README.md)
+* [Getting Started](welcome-start-here/faq-getting-started/README.md)
+  * [Getting Funds to Binance Smart Chain (BSC)](welcome-start-here/faq-getting-started/getting-funds-to-binance-smart-chain-bsc.md)
+  * [How to Buy BOMB](welcome-start-here/faq-getting-started/how-to-buy-bomb.md)
+* [Strategies](welcome-start-here/strategies.md)
+* [Autocompounding Vaults](welcome-start-here/autocompounding-vaults.md)
 
-## Basics
+## 💣 Protocol
 
-* [FAQ](basics/faq.md)
-* [Staking](basics/staking.md)
-* [Bonding](basics/bonding.md)
+* [Tokens](protocol/tokens.md)
+* [Boardroom](protocol/boardroom.md)
+* [BOMB Distribution](protocol/bomb-distribution.md)
+* [Bonds (BBOND)](protocol/bonds-mechanism.md)
+* [Farms](protocol/farms.md)
+* [xBOMB - BOMB Staking](protocol/xbomb-bomb-staking.md)
+* [Roadmap](protocol/roadmap.md)
+* [Treasury Transactions](protocol/treasury-transactions.md)
+* [Other Protocol Contract Addresses](protocol/other-protocol-contract-addresses.md)
 
-## Using the website
+## 💣 Helpful Guides
 
-* [Stake Your BHD (3, 3)](using-the-website/stake-your-bhd-3-3.md)
-* [Purchase A Bond (1, 1)](using-the-website/purchase-a-bond-1-1.md)
-* [Stake LP Tokens](using-the-website/stake-lp-tokens.md)
-* [Unstake LP Tokens](using-the-website/unstake-lp-tokens.md)
+* [Provide LP](helpful-guides/provide-lp.md)
 
-## Use Cases
+## 💣 Links
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Discord](https://discord.bomb.money)
+* [Telegram](https://t.me/bombmoneybsc)
+* [Medium](https://bombbshare.medium.com)
+* [Twitter](https://twitter.com/bombmoneybsc)
+* [GitHub](https://github.com/bombmoney)
+* [StaySafu Audit](https://www.staysafu.org/audit/bombmoney)
