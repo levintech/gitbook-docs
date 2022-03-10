@@ -1,24 +1,24 @@
 # Table of contents
 
-* [bomb.money Home](https://app.bomb.money)
+* [push.money Home](https://app.bomb.money)
 
-## 💣 Welcome / Start Here
+## Welcome / Start Here
 
 * [Introduction](README.md)
 * [Getting Started](welcome-start-here/faq-getting-started/README.md)
   * [Getting Funds to Binance Smart Chain (BSC)](welcome-start-here/faq-getting-started/getting-funds-to-binance-smart-chain-bsc.md)
-  * [How to Buy BOMB](welcome-start-here/faq-getting-started/how-to-buy-bomb.md)
+  * [How to Buy PUSH](welcome-start-here/faq-getting-started/how-to-buy-push.md)
 * [Strategies](welcome-start-here/strategies.md)
 * [Autocompounding Vaults](welcome-start-here/autocompounding-vaults.md)
 
-## 💣 Protocol
+## Protocol
 
 * [Tokens](protocol/tokens.md)
 * [Boardroom](protocol/boardroom.md)
-* [BOMB Distribution](protocol/bomb-distribution.md)
-* [Bonds (BBOND)](protocol/bonds-mechanism.md)
+* [PUSH Distribution](protocol/push-distribution.md)
+* [Pushes (PBOND)](protocol/pushes-mechanism.md)
 * [Farms](protocol/farms.md)
-* [xBOMB - BOMB Staking](protocol/xbomb-bomb-staking.md)
+* [xPUSH - PUSH Staking](protocol/xpush-push-staking.md)
 * [Roadmap](protocol/roadmap.md)
 * [Treasury Transactions](protocol/treasury-transactions.md)
 * [Other Protocol Contract Addresses](protocol/other-protocol-contract-addresses.md)

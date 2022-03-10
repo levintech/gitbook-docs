@@ -6,21 +6,21 @@
 
 Contract: [0x522348779DCb2911539e76A1042aA922F9C47Ee3](https://bscscan.com/address/0x522348779dcb2911539e76a1042aa922f9c47ee3)
 
-The BOMB token is designed to be used as a medium of exchange. The built-in stability mechanisms within the protocol aim to maintain BOMB's peg of 10,000 BOMB = 1 Bitcoin (BTC) in the long run.&#x20;
+The BOMB token is designed to be used as a medium of exchange. The built-in stability mechanisms within the protocol aim to maintain BOMB's peg of 10,000 BOMB = 1 Bitcoin (BTC) in the long run.
 
 {% hint style="warning" %}
 Note that BOMB **actively pegs via an algorithm**, but that **does not mean** it will be valued at 10,000 BOMB to 1 BTC at all times as **it is not collateralized**. **BOMB is not to be confused for a crypto or fiat-backed stablecoin.**
 {% endhint %}
 
-### [xBOMB - BOMB Protocol Governance Token](xbomb-bomb-staking.md)
+### [xBOMB - BOMB Protocol Governance Token](xpush-push-staking.md)
 
 ![xBOMB](../.gitbook/assets/xbomb-logo.png)
 
 Contract: [0xAf16cB45B8149DA403AF41C63AbFEBFbcd16264b](https://bscscan.com/address/0xaf16cb45b8149da403af41c63abfebfbcd16264b)
 
-xBOMB is the governance token of BOMB Protocol.  It can be obtained by staking BOMB.
+xBOMB is the governance token of BOMB Protocol. It can be obtained by staking BOMB.
 
-Learn more about xBOMB on the [xBOMB - BOMB Staking page](xbomb-bomb-staking.md).
+Learn more about xBOMB on the [xBOMB - BOMB Staking page](xpush-push-staking.md).
 
 ### BSHARES - BOMB Shares
 
@@ -38,10 +38,10 @@ BSHARE has a **maximum total supply of 70,001** tokens distributed as follows:
 4. Initial mint: 1 BSHARE minted upon contract creation for the initial pool
 
 {% hint style="success" %}
-The Bomb Money team will use the treasury funds in any way that they feel is best for the long-term success of the protocol.&#x20;
+The Bomb Money team will use the treasury funds in any way that they feel is best for the long-term success of the protocol.
 {% endhint %}
 
-### [BBOND - BOMB Bonds](bonds-mechanism.md)
+### [BBOND - BOMB Bonds](pushes-mechanism.md)
 
 ![BBOND](<../.gitbook/assets/bbond-256 (1).png>)
 
