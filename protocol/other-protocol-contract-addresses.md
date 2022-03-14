@@ -1,9 +1,9 @@
 # Other Protocol Contract Addresses
 
-### Bomb Money Oracle
+### Push Money Oracle
 
-[0x901a38448B254261cBaA960828BA8DeC08A28EFC](https://bscscan.com/address/0x901a38448B254261cBaA960828BA8DeC08A28EFC)
+[0xdac8904ec64B413079A1B271F1D5F73B696246cF](https://bscscan.com/address/0xdac8904ec64B413079A1B271F1D5F73B696246cF)
 
 ### Boardroom
 
-[0xcaf7d9ce563e361a304fb6196499c1dfd11b5991](https://bscscan.com/address/0xcaf7d9ce563e361a304fb6196499c1dfd11b5991)
+[0x7158c84c14328c4Df8122d173aF40502F6827702](https://bscscan.com/address/0x7158c84c14328c4Df8122d173aF40502F6827702)
