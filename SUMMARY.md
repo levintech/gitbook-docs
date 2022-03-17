@@ -1,6 +1,6 @@
 # Table of contents
 
-* [push.money Home](https://app.bomb.money)
+* [Pushmoney Home](https://pushmoney.money)
 
 ## Welcome / Start Here
 
@@ -20,13 +20,13 @@
 * [xPUSH - PUSH Staking](protocol/xpush-push-staking.md)
 * [Other Protocol Contract Addresses](protocol/other-protocol-contract-addresses.md)
 
-## 💣 Helpful Guides
+## Helpful Guides
 
 * [Provide LP](helpful-guides/provide-lp.md)
 
-## 💣 Links
+## Links
 
-* [Discord](https://discord.bomb.money)
-* [Telegram](https://t.me/bombmoneybsc)
-* [Twitter](https://twitter.com/bombmoneybsc)
-* [GitHub](https://github.com/bombmoney)
+* [Discord](https://discord.gg/YwKPEZ5epn)
+* [Telegram](https://t.me/pushmoney1)
+* [Twitter](https://twitter.com/money\_push)
+* [GitHub](https://github.com/PUSH-MONEY)
