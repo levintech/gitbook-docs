@@ -13,7 +13,7 @@ Push Money is based upon the work of the brilliant **tomb.finance** project on t
 This project would certainly not be possible without the work of the [tomb.finance](https://tomb.finance) team. Their project being fully open source and developed exceptionally well made it a pleasure to work with, and we would not be here today without their efforts, so we want to give a special thank you to them for that.
 
 {% hint style="info" %}
-Push Money will be launched on March 20, 2022. The rest is history!
+Push Money will be launched on March 31, 2022. The rest is history!
 {% endhint %}
 
 ## What's the point?

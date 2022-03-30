@@ -2,9 +2,9 @@
 
 ### PUSH - push.money Token
 
-![push.money (PUSH)](../.gitbook/assets/push192x192.png)
+![PUSH](../.gitbook/assets/push192x192.png)
 
-[Contract: 0x4cbD241e248e0545fc8AcF6338639988751b40e8](https://bscscan.com/address/0x4cbD241e248e0545fc8AcF6338639988751b40e8)
+[Contract: ](https://bscscan.com/address/0x4cbD241e248e0545fc8AcF6338639988751b40e8)[0x5CA816d6EEE8E151354aB087b58228518eD85480](https://bscscan.com/address/0x5CA816d6EEE8E151354aB087b58228518eD85480)
 
 The PUSH token is designed to be used as a medium of exchange. The built-in stability mechanisms within the protocol aim to maintain PUSH's peg of 10,000 PUSH = 1 Bitcoin (BTC) in the long run.
 
@@ -16,7 +16,7 @@ Note that PUSH **actively pegs via an algorithm**, but that **does not mean** it
 
 ![xPUSH](../.gitbook/assets/xpush192x192.png)
 
-Contract: [0xf07f73017103795Ed25f28733B34396E09419ad2](https://bscscan.com/address/0xf07f73017103795Ed25f28733B34396E09419ad2)
+Contract: [0x21D46F44744c800FA86EbEF6DEc3Ff8126b874D3](https://bscscan.com/address/0x21D46F44744c800FA86EbEF6DEc3Ff8126b874D3)
 
 xPUSH is the governance token of PUSH Protocol. It can be obtained by staking PUSH.
 
@@ -26,7 +26,7 @@ Learn more about xPUSH on the [xPUSH - PUSH Staking page](xpush-push-staking.md)
 
 ![PSHARE](../.gitbook/assets/pshare192x192.png)
 
-Contract: [0xdd7bD82ae6263cA3F9f973f5439f253Fe8CC1343](https://bscscan.com/address/0xdd7bD82ae6263cA3F9f973f5439f253Fe8CC1343)
+Contract: [0xCD77F22a17E2f6D35d7bd5A7d9b665C348877FFC](https://bscscan.com/address/0xCD77F22a17E2f6D35d7bd5A7d9b665C348877FFC)
 
 PUSH Shares (PSHARE) are one of the ways to measure the value of the Push Money Protocol and shareholder trust in its ability to consistently maintain PUSH close to peg. During epoch expansions the protocol mints PUSH and distributes it proportionally to all PSHARE holders who have staked their tokens in the [**Boardroom**](boardroom.md).
 
@@ -45,7 +45,7 @@ The Push Money team will use the treasury funds in any way that they feel is bes
 
 ![PBOND](../.gitbook/assets/pbond192x192.png)
 
-Contract: [0x](https://bscscan.com/address/0xdd7bD82ae6263cA3F9f973f5439f253Fe8CC1343)[667Dfce8b7ddF01921Aa41bb4685aA8424F894b4](https://bscscan.com/address/0x667Dfce8b7ddF01921Aa41bb4685aA8424F894b4)
+Contract: [0xaA256691B7bf31acA54aA5C8C771fc1E1647510f](https://bscscan.com/address/0xaA256691B7bf31acA54aA5C8C771fc1E1647510f)
 
 The main purpose of PUSH Bonds (PBOND) is to help incentivize fluctuations in the PUSH supply during epoch contraction periods. When the TWAP (time-weighted average price) of PUSH falls below 10,000 to 1 BTC, PBONDs are issued and can be bought with PUSH at the current price. Exchanging PUSH for PBOND burns PUSH tokens, taking them out of circulation (deflation) and helps to get the price back up to peg. These PBOND can be redeemed for PUSH when the price is above peg in the future, plus a premium based on how high above peg we currently are. This conversely creates inflation and subsequent sell pressure for PUSH when it is above peg, helping to push it back toward 10,000 PUSH to 1 BTC ratio.
 

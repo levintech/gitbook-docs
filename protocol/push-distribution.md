@@ -19,7 +19,3 @@ The amount of new PUSH distributed depends on our position above peg and also th
 | Up to 20M          | 1.5% expansion  |
 | Up to 50M          | 1.25% expansion |
 | 50M+               | 1% expansion    |
-
-## PUSH Rewards Distribution Flowchart
-
-![A flowchart of how BOMB rewards are distributed throughout the protocol](<../.gitbook/assets/BOMB Protocol Minting Flow.drawio (2).png>)

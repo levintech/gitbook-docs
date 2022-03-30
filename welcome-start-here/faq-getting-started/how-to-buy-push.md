@@ -4,16 +4,16 @@ You can buy PUSH or PSHARE on PancakeSwap or using any decentralized exchange ag
 
 ### Buy PUSH
 
-Paired with native BNB: [https://pancakeswap.finance/swap?inputCurrency=BNB\&outputCurrency=0x522348779DCb2911539e76A1042aA922F9C47Ee3](https://pancakeswap.finance/swap?inputCurrency=BNB\&outputCurrency=0x522348779DCb2911539e76A1042aA922F9C47Ee3)
+Paired with native BNB: [https://pancakeswap.finance/swap?inputCurrency=BNB\&outputCurrency=0x5CA816d6EEE8E151354aB087b58228518eD85480](https://pancakeswap.finance/swap?inputCurrency=BNB\&outputCurrency=0x5CA816d6EEE8E151354aB087b58228518eD85480)
 
-Or, paired with BTCB, its common pair: [https://pancakeswap.finance/swap?inputCurrency=0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c\&outputCurrency=0x522348779dcb2911539e76a1042aa922f9c47ee3](https://pancakeswap.finance/swap?inputCurrency=0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c\&outputCurrency=0x522348779dcb2911539e76a1042aa922f9c47ee3)
+Or, paired with BTCB, its common pair: [https://pancakeswap.finance/swap?inputCurrency=0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c\&outputCurrency=0x5CA816d6EEE8E151354aB087b58228518eD85480](https://pancakeswap.finance/swap?inputCurrency=0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c\&outputCurrency=0x5CA816d6EEE8E151354aB087b58228518eD85480)
 
 ### Buy PSHARE
 
-Paired with BNB: [https://pancakeswap.finance/swap?outputCurrency=0x531780FAcE85306877D7e1F05d713D1B50a37F7A](https://pancakeswap.finance/swap?outputCurrency=0x531780FAcE85306877D7e1F05d713D1B50a37F7A)\
+Paired with BNB: [https://pancakeswap.finance/swap?outputCurrency=0xCD77F22a17E2f6D35d7bd5A7d9b665C348877FFC](https://pancakeswap.finance/swap?outputCurrency=0xCD77F22a17E2f6D35d7bd5A7d9b665C348877FFC)\
 \
 You can also find quick and easy links to purchase each token on the Push Money app's main page:
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/quick buy.png>)
 
 Now that you know how to buy PUSH and PSHARE, let's take a look at some strategies in the next section that you can use as a framework for formulating your own investment strategy with Push Money.

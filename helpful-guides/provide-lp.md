@@ -6,10 +6,10 @@ Providing liquidity is possible on [PancakeSwap](https://pancakeswap.finance/add
 
 If **PUSH** or **PSHARE** do not show up, please manually copy/paste the address as shown below.
 
-**PUSH**: 0x4cbD241e248e0545fc8AcF6338639988751b40e8
+**PUSH**: 0x5CA816d6EEE8E151354aB087b58228518eD85480
 
-**PSHARE**: 0xdd7bD82ae6263cA3F9f973f5439f253Fe8CC1343
+**PSHARE**: 0xCD77F22a17E2f6D35d7bd5A7d9b665C348877FFC
 
 Click on supply and accept the transaction in your wallet.
 
-Now that you have provided LP, you can head over to [push.money](https://app.bomb.money) and [farm your LPs](https://app.bomb.money/farm).
+Now that you have provided LP, you can head over to [push.money](https://pushmoney.money) and [farm your LPs](https://pushmoney.money/farm/).

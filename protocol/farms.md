@@ -5,9 +5,8 @@
 To incentivize healthy liquidity pools for the Push Money protocol tokens, our LP farms have been seeded with PSHARE to be distributed as rewards to LP stakers across a time period of 12 months. The total PSHARE rewards are distributed from each farm as follows:
 
 * PUSH-BTCB LP: 50% of PSHARE rewards
-* PSHARE-BNB LP: 20% of PSHARE rewards
-* PUSH-PSHARE LP: 20% of PSHARE rewards
-* PUSH : 10% of PSHARE rewards
+* PSHARE-BNB LP: 25% of PSHARE rewards
+* PUSH-PSHARE LP: 25% of PSHARE rewards
 
 ### **1. What will happen when the circulating supply equals the total supply? Will reward emissions stop?**
 
