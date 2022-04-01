@@ -40,7 +40,6 @@ Any new PUSH deposits at this point will receive xPUSH at the current exchange r
 
 There are numerous sources of PUSH for the xPUSH holders:
 
-* Between January 24th and February 7th, 50,000 PUSH will be deposited into the xPUSH smart contract to benefit early stakers. That is an average of over 3,500 PUSH per day, over $10,000 USD per day during this period!
 * 20% of all PUSH minted on expansionary epochs will be deposited for xPUSH holders. This comes from the protocols PUSH allocation and has no negative impact on PSHARE staking.
 
 ### Contract
